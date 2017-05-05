@@ -9,3 +9,4 @@ java -jar ./target/scala-2.11/diffy-server.jar \
 -admin.port=:8881 \
 -http.port=:8888 \
 -rootUrl='localhost:8888'
+hahahaha
